@@ -7,8 +7,8 @@
 
   Thomas VanDrunen
   CSCI 245, Wheaton College
-  For labs and projects
-  August 16, 2010
+  
+  Modified by Robin Kelmen for personal project. 
 */
 
 
